@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Laravel,CodeIginiter**
 
-- 📝 I regularly write articles on [https://pasukanbocil.github.io/](https://pasukanbocil.github.io/)
+- 👨‍💻 All of my projects are available at [https://pasukanbocil.github.io/](https://pasukanbocil.github.io/)
 
 - 💬 Ask me about **PHP,JAVA**
 
