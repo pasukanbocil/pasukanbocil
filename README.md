@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm DICKY SATRIA PUTRA HERLAMBANG</h1>
 <h3 align="center">Saya Ingin Menjadi Seorang Back-end Developer</h3>
 
-- 🌱 I’m currently learning **Laravel,Code Iginiter,Spiring Boot**
+- 🌱 I’m currently learning **Laravel,CodeIginiter**
 
 - 📝 I regularly write articles on [https://pasukanbocil.github.io/](https://pasukanbocil.github.io/)
 
