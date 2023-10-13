@@ -1,6 +1,8 @@
 # 💫 About Me:
 🔭 I’m currently working on : Not working, I am still a student.<br>👯 I’m looking to collaborate on : Backend Developer<br>🤝 I’m looking for help with : Ask in the Discord forum or to my friend<br>🌱 I’m currently learning : Java, PHP and Laravel Framework<br>💬 Ask me about : Play games and learn programming languages.<br>⚡ Fun fact : Love a woman quietly.
 
+## 🏆 Badge:
+[![An image of @pasukanbocil's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pasukanbocil)](https://holopin.io/@pasukanbocil)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dickysatriaph_) 
@@ -12,7 +14,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=pasukanbocil&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pasukanbocil&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
+##  GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=pasukanbocil&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
