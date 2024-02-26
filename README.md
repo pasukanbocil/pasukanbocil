@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on : Not working, I am still a student.<br>👯 I’m looking to collaborate on : Backend Developer<br>🤝 I’m looking for help with : Ask in the Discord forum or to my friend<br>🌱 I’m currently learning : Java, PHP and Laravel Framework<br>💬 Ask me about : Play games and learn programming languages.<br>⚡ Fun fact : Love a woman quietly.
+🔭 I’m currently working on : Not working, I am still a student.<br>👯 I’m looking to collaborate on : Backend Developer<br>🤝 I’m looking for help with : Ask in the Discord forum or to my friend<br>🌱 I’m currently learning : JavaScript, Laravel Framework<br>💬 Ask me about : Play games and learn programming languages.<br>⚡ Fun fact : Love a woman quietly(MBAK M).
 
 ## 🏆 Badge:
 [![An image of @pasukanbocil's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pasukanbocil)](https://holopin.io/@pasukanbocil)
