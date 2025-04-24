@@ -1,5 +1,5 @@
 # 💫 About Me:
-⚡ Hidup Itu Simple Cukup Mencintai Dan Menikahi Seorang Wanita(Mbak M).
+⚡ Hidup Memang Terkadang Pahit Maka Dari Itu Minum Lah Minuman Manis Agar Tidak Terlalu Pahit
 
 ## 🏆 Badge:
 [![An image of @pasukanbocil's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pasukanbocil)](https://holopin.io/@pasukanbocil)
